@@ -1,6 +1,7 @@
 
 
-var selectedDomain = ['History', 'Social_Science']
+var selectedDomain = ['Social_Science']
+//, History''
 var questions = [];
 
 

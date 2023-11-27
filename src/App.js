@@ -154,13 +154,6 @@ const Component = () => {
 
       });
 
-
-
-
-
-
-
-
     }
   }, [isLoading]);
 
